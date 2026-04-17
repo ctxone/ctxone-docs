@@ -36,6 +36,13 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Company',
+					items: [
+						{ label: 'Blog', link: '/blog/' },
+						{ label: 'Early access', link: '/early-access/' },
+					],
+				},
+				{
 					label: 'How it works',
 					items: [
 						{ label: 'Architecture', slug: 'how-it-works/architecture' },
