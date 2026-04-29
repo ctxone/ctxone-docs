@@ -75,6 +75,20 @@ const MAPPING = [
 		order: 3,
 		title: 'Memory MCP design',
 	},
+	{
+		src: 'AGENTS.md',
+		section: 'how-it-works',
+		slug: 'agents',
+		order: 4,
+		title: 'Multi-agent systems',
+	},
+	{
+		src: 'MEMORY_BRANCH_SCOPING.md',
+		section: 'how-it-works',
+		slug: 'memory-branch-scoping',
+		order: 5,
+		title: 'Memory branch scoping',
+	},
 
 	// Reference
 	{
@@ -129,6 +143,13 @@ const MAPPING = [
 		slug: 'troubleshooting',
 		order: 2,
 		title: 'Troubleshooting',
+	},
+	{
+		src: 'DATA_SAFETY.md',
+		section: 'operating',
+		slug: 'data-safety',
+		order: 3,
+		title: 'Data safety',
 	},
 
 	// Why CtxOne (strategy)
